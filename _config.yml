@@ -1,6 +1,6 @@
 name: App송이 기술 블로그
-description: Blogging about stuffs
-meta_description: "Your New Jekyll Site, Blogging about stuffs"
+description: 
+meta_description: "Back-End 개발자들의 App개발 도전하기!"
 
 markdown: kramdown
 highlighter: rouge
